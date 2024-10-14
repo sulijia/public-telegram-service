@@ -1,1 +1,1 @@
-# public-telegram-service
+# publicai-telegram-service
